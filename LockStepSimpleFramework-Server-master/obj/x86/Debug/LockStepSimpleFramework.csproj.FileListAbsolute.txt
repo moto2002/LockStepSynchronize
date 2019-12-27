@@ -1,0 +1,12 @@
+C:\Users\123\Desktop\新建文件夹\LockStepSimpleFramework-Server-master\bin\Debug\LockStepSimpleFramework.exe
+C:\Users\123\Desktop\新建文件夹\LockStepSimpleFramework-Server-master\bin\Debug\LockStepSimpleFramework.pdb
+C:\Users\123\Desktop\新建文件夹\LockStepSimpleFramework-Server-master\obj\x86\Debug\LockStepSimpleFramework.csprojAssemblyReference.cache
+C:\Users\123\Desktop\新建文件夹\LockStepSimpleFramework-Server-master\obj\x86\Debug\LockStepSimpleFramework.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\新建文件夹\LockStepSimpleFramework-Server-master\obj\x86\Debug\LockStepSimpleFramework.exe
+C:\Users\123\Desktop\新建文件夹\LockStepSimpleFramework-Server-master\obj\x86\Debug\LockStepSimpleFramework.pdb
+C:\Users\123\Desktop\1\LockStepSimpleFramework-Server-master\bin\Debug\LockStepSimpleFramework.exe
+C:\Users\123\Desktop\1\LockStepSimpleFramework-Server-master\bin\Debug\LockStepSimpleFramework.pdb
+C:\Users\123\Desktop\1\LockStepSimpleFramework-Server-master\obj\x86\Debug\LockStepSimpleFramework.csprojAssemblyReference.cache
+C:\Users\123\Desktop\1\LockStepSimpleFramework-Server-master\obj\x86\Debug\LockStepSimpleFramework.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\1\LockStepSimpleFramework-Server-master\obj\x86\Debug\LockStepSimpleFramework.exe
+C:\Users\123\Desktop\1\LockStepSimpleFramework-Server-master\obj\x86\Debug\LockStepSimpleFramework.pdb
